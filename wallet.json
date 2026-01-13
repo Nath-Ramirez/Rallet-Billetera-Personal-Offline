@@ -1,0 +1,20 @@
+{
+  "monthly_income": 0,
+  "current_month": "2026-01",
+  "current_day": "2026-01-12",
+  "daily_expenses": [
+    {
+      "amount": 12000,
+      "category": "comida",
+      "date": "2026-01-12",
+      "note": "almuerzo en la universidad"
+    },
+    {
+      "amount": 6000,
+      "category": "comida",
+      "date": "2026-01-12",
+      "note": "manguito"
+    }
+  ],
+  "monthly_total_spent": 0
+}
